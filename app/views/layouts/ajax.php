@@ -1,0 +1,1 @@
+<?= is_array($content) ? array2json($content) : $content;?>
