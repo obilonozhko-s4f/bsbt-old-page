@@ -100,7 +100,7 @@ class xAdmin_Apartment extends Base_Admin_Lang_Controller {
     }
 
     $this->load->library('common/GeoCode', array(
-      'key' => 'AIzaSyBtXFJbP5VqfYiDpy2M1pBqVKcYNUgCtyU',
+      'key' => 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
       'language' => 'en'
     ));
 
