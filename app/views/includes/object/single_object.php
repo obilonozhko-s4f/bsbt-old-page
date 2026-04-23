@@ -192,7 +192,7 @@
 
     var script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyAQowVwQSa5etyQBW4upqUFSni5tboUf-U&sensor=false';
+    script.src = 'https://maps.googleapis.com/maps/api/js?key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-U&sensor=false';
     script.onload = function() {
       initMap();
     };
